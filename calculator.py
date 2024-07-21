@@ -32,3 +32,5 @@ result_percentage = percentage(50, 20)
 
 print(result_add, result_subtract, result_multiply, result_divide, result_percentage)
 
+output:-
+![WhatsApp Image 2024-07-21 at 23 02 57_96c3b654](https://github.com/user-attachments/assets/ad544e79-b564-435b-ba64-a6624bf8688a)
