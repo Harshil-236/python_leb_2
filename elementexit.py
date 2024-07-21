@@ -8,3 +8,4 @@ else:
     print(f"{element_to_find} does not exist in the list.")
 
 output:-
+![Screenshot (40)](https://github.com/user-attachments/assets/928869d5-5430-41cf-8c34-62f76d05a8d6)
